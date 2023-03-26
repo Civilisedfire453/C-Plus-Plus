@@ -3,7 +3,7 @@
 # in C++  
 #
 # *#SAMPLE#*
-# #include <iostream>
+# #include iostream
 # using namespace std; //standard name space
 # int main(){ //execution of the main program begins here.
 # cout<<"Hello students";
