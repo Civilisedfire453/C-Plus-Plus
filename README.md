@@ -1,4 +1,4 @@
-#Sample Programs
+##Sample Programs##
 
 The programs included in this repository are self-taught and created by the author. These programs are intended to showcase the author's programming skills and serve as examples of their work.
 
