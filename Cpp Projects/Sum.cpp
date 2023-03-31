@@ -1,14 +1,12 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int main()
-{
-    int a = 0;
-    int b = 0;
-    int f = a + b;
-
-    cout<< "Print the sum of two numbers :" <<endl;
-    cout<<"------------------------------\n";
-    cout<< 
+{   /* code */
+    int var1 = 10,var2 = 20;
+    int sum =0;
+    sum = var1 + var2;
+    cout <<sum;
+    
     return 0;
 }

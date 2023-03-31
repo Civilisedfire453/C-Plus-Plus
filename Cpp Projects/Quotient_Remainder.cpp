@@ -1,10 +1,10 @@
 #include <iostream>
-using namespace std;
+using namespace std; // this is the namespace
 
-int main()
+int main() // this is the main function
 {
-    int divisor = 0, divident = 0;
-    int quotient = 0, remainder = 0;
+    int divisor = 0, divident = 0;  // this is the variable declaration
+    int quotient = 0, remainder = 0; // this is the variable declaration
 
     // user  input
     cout << "Enter a divisor: " << endl;
@@ -23,4 +23,4 @@ int main()
     cout << "remainder: " << remainder;
 
     return 0;
-}
+} // this is the end of the program
