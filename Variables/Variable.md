@@ -1,7 +1,7 @@
 # C++ Identifiers 
-    To prior to variables, we must be familar with identifiers. As the name suggests are used to identify a variable , class, function, module, or any other user defined term.
+To prior to variables, we must be familar with identifiers. As the name suggests are used to identify a variable , class, function, module, or any other user defined term.
 
-    An identifier starts with the letters A-Z or a-z or an underscore followed by more letters of numbers
+An identifier starts with the letters A-Z or a-z or an underscore followed by more letters of numbers
 
 
 
@@ -43,7 +43,7 @@ bool- stores values with two states: true or false.
 | integer | int | Stores digit and precision | -32768 to +32767 | 2 |
 | floating point | float | store decimal numbers  | -3.4*10^-38 to 3.4*10^38  | 4 |
 | double floating point | double | store double precision | -1.7*10^-308 to 1.7*10^308  | 8 |
-| void  | null | store noting  | 0 | 0 |
+| void  | null | store nothing  | 0 | 0 |
 
 
 
