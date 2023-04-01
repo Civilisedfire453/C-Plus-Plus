@@ -1,7 +1,7 @@
 # C++ Identifiers 
-    To prior to variables, we must be familar with identifiers. As the name suggests are used to identify a variable , class, function, module, or any other user defined term.
+ To prior to variables, we must be familar with identifiers. As the name suggests are used to identify a variable , class, function, module, or any other user           defined term.
 
-    An identifier starts with the letters A-Z or a-z or an underscore followed by more letters of numbers
+ An identifier starts with the letters A-Z or a-z or an underscore followed by more letters of numbers
 
 
 
