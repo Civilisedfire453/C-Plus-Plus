@@ -5,7 +5,7 @@ int main()
 {
     int i, sum = 0; // declare variables
 
-    for (i = 1; i<= 10; i++) // for loop
+    for (i = 1; i <= 10; i++) // for loop
     {
         sum = sum + i; // add x to sum
     }

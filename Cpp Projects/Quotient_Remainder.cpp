@@ -3,7 +3,7 @@ using namespace std; // this is the namespace
 
 int main() // this is the main function
 {
-    int divisor = 0, divident = 0;  // this is the variable declaration
+    int divisor = 0, divident = 0;   // this is the variable declaration
     int quotient = 0, remainder = 0; // this is the variable declaration
 
     // user  input

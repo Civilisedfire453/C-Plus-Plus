@@ -12,6 +12,6 @@ int main()
     cout << "\n The sizeof(long long) is: " << sizeof(long long) << " long long \n";
     cout << "\n The sizeof(float) is: " << sizeof(float) << " float \n";
     cout << "\n The sizeof(double) is: " << sizeof(double) << " double \n";
-    cout <<"\n The sizeof(long double) is: " << sizeof(long double) << " long double \n";
-    cout << "\n The sizeof(bool) is: " << sizeof(bool) << " bool \n " <<endl;
+    cout << "\n The sizeof(long double) is: " << sizeof(long double) << " long double \n";
+    cout << "\n The sizeof(bool) is: " << sizeof(bool) << " bool \n " << endl;
 }

@@ -6,8 +6,8 @@ int main()
 
     do
     {
-        std::cout << i<< std::endl;
-        i +=1;
+        std::cout << i << std::endl;
+        i += 1;
     } while (i <= 10);
 
     return 0;
