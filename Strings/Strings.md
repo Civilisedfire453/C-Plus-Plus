@@ -6,8 +6,8 @@ Strings are a sequence of characters that are used to store text. In C++, there 
 
 The `string` class is a built-in class in C++ that provides a number of functions for working with strings. To declare a string using the `string` class, you can use the following syntax:
 
-```c++
-std::string my_string = "This is a string"; ```
+c++
+std::string my_string = "This is a string"; 
 
 This will create a string object named `my_string` that contains the text "This is a string".
 
@@ -15,8 +15,8 @@ This will create a string object named `my_string` that contains the text "This 
 
 Character arrays are also used to store strings in C++. To declare a character array, you can use the following syntax:
 
-```c++
-char my_string[] = "This is a string";```
+
+char my_string[] = "This is a string";
 
 
 This will create a character array named `my_string` that contains the text "This is a string".
@@ -36,7 +36,7 @@ Once you have declared a string, you can use a number of functions to work with 
 
 The following code shows an example of how to work with strings in C++:
 
-```c++
+c++
 #include <iostream>
 #include <string>
 
@@ -68,4 +68,4 @@ int main() {
   std::cout << my_string << std::endl;
 
   return 0;
-}```
+}
