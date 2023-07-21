@@ -19,5 +19,5 @@ int main()
     {
         std::cout << "The strings are not the same ." << std::endl;
     }
-
+}
     return 0;
