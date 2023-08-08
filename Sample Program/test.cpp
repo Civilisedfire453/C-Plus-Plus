@@ -1,11 +1,16 @@
 //
 // Created by vedlo on 25/11/2022.
 //
-int age;
+#include <iostream>
+#include <string>
+using namespace std;
+int main(){
+    int age;
 
-cout << "Enter your age";
-cin >> age;
+    cout<< "Enter your age";
+    cin>>age;
 
-cout << "Your age is :" << age;
+    cout << "Your age is :" << age;
 
-return 0;
+    return 0;
+}

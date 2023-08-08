@@ -11,7 +11,7 @@ int main()
     std::cout << "Enter another string: ";
     std::getline(std::cin, string2); // get the second string.
 
-    if (string1.compare(string2) == 0)
+    if (0 == string1.compare(string2))
     {
         std::cout << "The strings are the same ." << std::endl;
     }
@@ -19,5 +19,7 @@ int main()
     {
         std::cout << "The strings are not the same ." << std::endl;
     }
-}
+
     return 0;
+}
+
