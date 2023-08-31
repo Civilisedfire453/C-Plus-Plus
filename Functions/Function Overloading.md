@@ -43,7 +43,7 @@ There are a few things that you need to keep in mind when using function overloa
 
 Function overloading is a powerful feature in C++. It allows you to write code that is more readable and maintainable. It also makes your code more reusable, as you can use the same function name for different types of data.
 
-# Advantages and Disadvantages of Function Overloading
+## Advantages and Disadvantages of Function Overloading
 
 Here are some advantages of function overloading:
 
