@@ -47,16 +47,16 @@ Function overloading is a powerful feature in C++. It allows you to write code t
 
 Here are some advantages of function overloading:
 
-* 1. It makes your code more readable and maintainable.
-* 2. It makes your code more reusable.
-* 3. It allows you to write code that is more efficient.
-* 4. It can reduce the number of functions in your program.
-* 5. It can reduce the number of parameters in your functions.
+* It makes your code more readable and maintainable.
+* It makes your code more reusable.
+* It allows you to write code that is more efficient.
+* It can reduce the number of functions in your program.
+* It can reduce the number of parameters in your functions.
 
 Here are some disadvantages of function overloading:
 
-* 1. It can make your code more complex.
-* 2. It can make your code harder to understand.
-* 3. It can make your code harder to maintain.
-* 4. It can make your code harder to debug.
-* 5. It can make your code less portable to other programming languages.
+* It can make your code more complex.
+* It can make your code harder to understand.
+* It can make your code harder to maintain.
+* It can make your code harder to debug.
+* It can make your code less portable to other programming languages.
