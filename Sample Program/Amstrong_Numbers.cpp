@@ -28,7 +28,7 @@ void ArmstrongNum() { // function to check if a number is an Armstrong number
 
 	while (temp != 0) {
 		rem = temp % 10; // get the last digit of the number
-		sum = sum + pow(rem, numDigits); // add the cube of the digit to the sum
+		sum =+ pow(rem, numDigits); // add the cube of the digit to the sum
 		temp = temp / 10; // divide the number by 10
 
 	}
